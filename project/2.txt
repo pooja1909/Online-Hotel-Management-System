@@ -1,0 +1,33 @@
+<html>
+<head>
+<title>HOTEL MANAGEMENT</title>
+</head>
+<body>
+<center>
+<h1>WELCOME TO TAJ LANDS</h2>
+<img src="tajpic.jpg" align=8"center" alt="taj pic">
+<font color="black">
+<font size="4">
+<br>
+Taj Lands End boasts 493 fully equipped, air-conditioned bedrooms. 
+Hotel customers are offered the following room facilities: remote lighting/drapery/curtain control, direct-dial phone, multi-line phone, coffee/tea maker, climate control, clock radio and voice mail. In addition there is in-room safe (accommodates laptop), minibar, blackout drapes/curtains and desk in the rooms. 
+Beds: Rooms are also equipped with extra towels/bedding items. 
+Guests of the hotel may request a rollaway bed and a crib/cot (infant beds). 
+Bathroom amenities include bathrobes, complimentary toiletries and hair dryer. 
+Entertainment: The in-room entertainment facilities at this welcoming hotel include video-game console and cable television service. Internet connection options: Guests are sure to appreciate wireless Internet access. 
+An additional charge is applied for wireless high-speed Internet access and Internet access. 
+Housekeeping services and complimentary newspapers are also offered.
+</br>
+</center>
+DETAILS:
+<a href="3.html">ROOM RESERVATION</a>
+<a href="4.html">BRANCHES</a>
+<a href="5.html">EVENTS</a>
+<a href="">RESTAURANT</a>
+<a href="6.html">SPECIAL OFFERS</a>
+
+<marquee behaviour="alternate" bgcolour="red">
+<a href="contact.html">TAJLANDS-2277898/2277899</a>
+</marquee>
+</body>
+</html>

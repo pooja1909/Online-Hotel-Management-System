@@ -1,0 +1,76 @@
+<html>
+<head>
+<title>RESERVATION</title>
+</head>
+<body>
+<tr>
+<td>Number of nights</td>
+<td><select name="Number of nights">
+<option value="1">1</option>
+<option value="2">2</option>
+<option value="3">3</option>
+<option value="4">4</option>
+<option value="5">5</option>
+<option value="6">6</option>
+<option value="7">7</option>
+<option value="8">8</option>
+<option value="9">9</option>
+<option value="10">10</option>
+</td>
+</tr>
+<tr>
+<td>rooms</td>
+<td><select name="rooms">
+<option value="1">1</option>
+<option value="2">2</option>
+<option value="3">3</option>
+<option value="4">4</option>
+<option value="5">5</option>
+<option value="6">6</option>
+<option value="7">7</option>
+<option value="8">8</option>
+<option value="9">9</option>
+<option value="10">10</option>
+</td>
+</tr>
+<tr>
+<td>adults</td>
+<td><select name="adults">
+<option value="1">1</option>
+<option value="2">2</option>
+<option value="3">3</option>
+<option value="4">4</option>
+<option value="5">5</option>
+<option value="6">6</option>
+<option value="7">7</option>
+<option value="8">8</option>
+<option value="9">9</option>
+<option value=8"10">10</option>
+</td>
+</tr>
+<tr>
+<td>children</td>
+<td><select name="children">
+<option value="1">1</option>
+<option value="2">2</option>
+<option value="3">3</option>
+<option value="4">4</option>
+<option value="5">5</option>
+<option value="6">6</option>
+<option value="7">7</option>
+<option value="8">8</option>
+<option value="9">9</option>
+<option value="10">10</option>
+</td>
+</tr>
+<tr>
+<td>type</td>
+<td><select name="type">
+<option value="single bed">single bed</option>
+<option value="double bed">2</option>
+<option value="small suite">small suite</option>
+<option value="family suite">family suite</option>
+</td>
+</tr>
+</body>
+</html>

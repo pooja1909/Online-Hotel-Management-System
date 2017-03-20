@@ -1,0 +1,16 @@
+<html>
+<head>
+<title>EVENTS ORGANISED</title>
+</head>
+<body>
+<ol>
+WEDDINGS
+CONFERENCES
+SOCIAL GATHERINGS
+PERFORMANCES
+</ol>
+<img src="i1.jpg" align=8"center" alt="i1">
+<img src="i2.jpg" align=8"center" alt="i2">
+<img src="i3.jpg" align=8"center" alt="i3">
+<img src="i4.jpg" align=8"center" alt="i4">
+</body>
